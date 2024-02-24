@@ -173,11 +173,13 @@ body{
 .tour-button:hover{
     background-color: var(--gray);
 }
+/* image style bharat kadam  */
 .content-right{
     display: flex;
     align-items: center;
     justify-content: center;
 }
+/* images container for styles */
 .image-container{
     border: none;
     border-radius: 1.225rem;
